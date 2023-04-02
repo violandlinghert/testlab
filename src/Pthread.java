@@ -7,7 +7,7 @@ public class Pthread {
 
         System.out.println("main"); //MainThread
         System.out.println("main1"); //Main1Thread
-        //Main
+        //Main11
     }
 }
 
